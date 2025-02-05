@@ -31,7 +31,7 @@ namespace TextRPG
             {
                 Console.WriteLine("예.");
             }
-
+            ////rtrtrtrtrtrtt
         }
 
     }
