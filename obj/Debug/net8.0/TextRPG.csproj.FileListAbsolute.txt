@@ -12,3 +12,4 @@ C:\Users\hakye\OneDrive\바탕 화면\2025_game\TextRPG\TextRPG\obj\Debug\net8.0
 C:\Users\hakye\OneDrive\바탕 화면\2025_game\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
 C:\Users\hakye\OneDrive\바탕 화면\2025_game\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
 C:\Users\hakye\OneDrive\바탕 화면\2025_game\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
+C:\Users\hakye\OneDrive\바탕 화면\2025_game\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.sourcelink.json
